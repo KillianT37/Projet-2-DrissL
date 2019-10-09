@@ -1,0 +1,57 @@
+﻿body {
+    background-color: gray;
+}
+
+header {
+    color: white;
+    background-image: url("serveur.jpg");
+    height: 100px;
+   
+}
+
+    header h1 {
+        text-align: center;
+        
+    }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.navig { 
+    overflow: hidden;
+    background-color:;
+    text-align:center;
+    width:100%;
+}
+.navig a {
+        color: white;
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        
+ }
+.navig a:hover {
+            background-color: #4CAF50;
+            color: black;
+
+}
+.navig a.active {
+        background-color: #4CAF50;
+        color: white;
+
+}
+.navig .icon {
+    display: none; 
+}
+.t1 { 
+    text-align: center;
+    text-decoration: underline;
+}
+.t2 { 
+    text-align: left; 
+}
