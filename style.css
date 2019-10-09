@@ -53,5 +53,13 @@ footer {
     text-decoration: underline;
 }
 .t2 { 
-    text-align: left; 
+    text-align: center; 
+}
+.t3 { 
+    text-align: left;
+   
+}
+.t4 {
+    text-align:right 
+
 }
